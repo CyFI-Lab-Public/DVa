@@ -1,0 +1,3 @@
+<android.accessibilityservice.AccessibilityService: boolean performGlobalAction(int)>
+<android.view.accessibility.AccessibilityNodeInfo: boolean performAction(int)>
+<android.view.accessibility.AccessibilityNodeInfo: boolean performAction(int,android.os.Bundle)>
