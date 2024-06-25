@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="AXMLPrinter2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../soot/AXMLPrinter2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/AXMLPrinter2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

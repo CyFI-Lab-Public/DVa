@@ -10,7 +10,7 @@ import com.company.analysis.metaInfo.SearchClassTest;
 import com.company.config.Envir;
 import com.company.config.InitSoot;
 import com.company.output.OutputDict;
-import com.sun.tools.internal.ws.wsdl.document.Output;
+//import com.sun.static_analysis.internal.ws.wsdl.document.Output;
 
 /**
  * Statically determine properties of an APK and writes to allAPKInfo.json.

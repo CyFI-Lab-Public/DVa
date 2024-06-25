@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tool.iml" filepath="$PROJECT_DIR$/tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_analysis.iml" filepath="$PROJECT_DIR$/static_analysis.iml" />
     </modules>
   </component>
 </project>
