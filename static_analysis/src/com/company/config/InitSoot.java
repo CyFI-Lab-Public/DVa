@@ -24,7 +24,7 @@ public class InitSoot {
         Options.v().set_process_dir(Collections.singletonList(Envir.APK_PATH));
         System.out.println("Processing: " + Envir.APK_PATH);
         Options.v().set_android_jars(Envir.ANDROID_JAR_DIR);
-//        System.out.println(Envir.ANDROID_JAR_DIR);
+        System.out.println(Envir.ANDROID_JAR_DIR);
         // Options.v().set_soot_classpath(ClassPath.get());
         Options.v().set_whole_program(true);
         Options.v().set_allow_phantom_refs(true);

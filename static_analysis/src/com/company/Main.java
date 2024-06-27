@@ -54,12 +54,12 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        // Constant paths
-        Envir.ANDROID_JAR_DIR = System.getenv("ANDROID_JAR");
+//        // Constant paths
+//        Envir.ANDROID_JAR_DIR = System.getenv("ANDROID_JAR");
 
         // Parse operation mode arguments
         if (args.length != 2) {
-            System.out.println("Incorrect arguments, input operation mode, input path, and output report path");
+            System.out.println("Incorrect arguments, input path, and output report path");
             System.exit(1);
         }
 

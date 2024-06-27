@@ -4,10 +4,11 @@ import subprocess
 
 
 def main():
-    a11yPath = os.environ['A11Y_PATH']
+    # a11yPath = os.environ['A11Y_PATH']
+    a11yPath = "."
 
     # get all samples hashes
-    samplesPath = "/Users/haichuanxu/Docs/malware_samples/9850_a11y"
+    samplesPath = "./samples"
     allSamples = []
     for (path, subdirs, files) in os.walk(samplesPath):
         for file in files:
