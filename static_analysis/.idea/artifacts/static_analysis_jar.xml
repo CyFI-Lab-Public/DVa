@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="static_analysis:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="static_analysis.jar">
+      <element id="module-output" name="static_analysis" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/AXMLPrinter2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/soot-4.3.0-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
